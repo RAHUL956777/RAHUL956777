@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... reacr😊
 - 💞️ I’m looking to collaborate on ... MERN
-- 📫 How to reach me ... 6297587513 and main dasr16583@gmail.com
+- 📫 How to reach me ... 6297587513 and mail dasr16583@gmail.com
 
 <!---
 RAHUL956777/RAHUL956777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
