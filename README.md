@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAHUL956777
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... reacr😊
+- 🌱 I’m currently learning ... react😊
 - 💞️ I’m looking to collaborate on ... MERN
 - 📫 How to reach me ... 6297587513 and mail dasr16583@gmail.com
 
