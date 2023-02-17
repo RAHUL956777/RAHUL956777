@@ -1,6 +1,7 @@
+<!-- [![MasterHead](https://media.tenor.com/XSjKW2U6qHAAAAAM/smile-krupovich.gif)] -->
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul956777&label=Profile%20views&color=0e75b6&style=flat" alt="rahul956777" /> </p>
 
