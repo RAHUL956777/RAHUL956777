@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif">
