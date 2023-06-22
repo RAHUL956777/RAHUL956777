@@ -5,12 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul956777" alt="rahul956777" /></a> </p>
 
+- 🔭 I’m currently working on **whatsApp-clone**
+
 - 💬 Ask me about **c,html,css,javascript,bootstrap,tailwindcs,mongodb,express,react,nodejs,mongodb,expressjs,reactjs,nodejs**
 
 - 📫 How to reach me **dasr16583@gmail.com**
 
+- ⚡ Fun fact **There is no "hug" only "Bug".😌**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rahulda11010014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulda11010014" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-das-277964223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-das-277964223" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/4z2qzXyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4z2qzXyw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
