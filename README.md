@@ -28,6 +28,7 @@
 </p>
 
 <!-- Languages and Tools Section -->
+<!-- Languages and Tools Section -->
 ## Languages and Tools
 
 <div align="left">
@@ -46,6 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin-right: 20px;">
 </div>
+
 
 
 
